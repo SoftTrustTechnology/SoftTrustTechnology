@@ -1,87 +1,64 @@
 <div align="center">
 
-<p><img src="logo-full-softtrust.svg" alt="SoftTrust Technology — mascote" width="260" /></p>
+<img src="logo-full-softtrust.svg" alt="SoftTrust Technology" width="260" />
 
+### Intelligent software for companies that don't compromise on **efficiency** and **security**.
 
-### Software inteligente para empresas que não abrem mão de **eficiência** e **segurança**.
-
-![Rust](https://img.shields.io/badge/Built%20with-Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
-![B2B](https://img.shields.io/badge/Foco-B2B-1F2937?style=for-the-badge&labelColor=000000&color=DEA584)
-![Segurança](https://img.shields.io/badge/Seguran%C3%A7a-by%20design-B7410E?style=for-the-badge)
-![Performance](https://img.shields.io/badge/Performance-nativa-F74C00?style=for-the-badge)
-
-[🌐 Site](https://softrust.io) · [✉️ softtrust@softtrust.io](mailto:softtrust@softtrust.io) · [📍 São José dos Campos – SP](https://softrust.io)
+[🌐 Website](https://softrust.io) · [✉️ softtrust@softtrust.io](https://www.google.com/search?q=mailto%3Asofttrust%40softtrust.io) · [📍 São José dos Campos – SP, Brazil](https://softrust.io)
 
 </div>
 
----
+## 🦀 Who we are
 
-## 🦀 Quem somos
+**SoftTrust Technology** is a **B2B** software development company. We build intelligent, fast, and secure applications for organizations that need to operate with **efficiency**, **reliability**, and **total control** over their data.
 
-A **SoftTrust Technology** é uma empresa de desenvolvimento de software **B2B**. Criamos aplicações inteligentes, rápidas e seguras para organizações que precisam operar com **eficiência**, **confiabilidade** e **controle total** dos seus dados.
+Our name says it all: **Soft**ware you can **Trust**.
 
-Nosso nome diz tudo: **Soft**ware em que você pode **Trust** (confiar).
-
-Apostamos em **Rust** como base tecnológica porque ele entrega o que o mercado corporativo exige: desempenho de linguagem nativa, segurança de memória e sistemas que se mantêm estáveis em produção.
+We rely on **Rust** as our technological foundation because it delivers exactly what the corporate market demands: native language performance, memory safety, and systems that remain highly stable in production.
 
 ---
 
-## 🔶 O que fazemos
+## 🔶 What we do
 
-| Frente | Descrição |
-|:--|:--|
-| 🌐 **Plataformas Web** | Sistemas corporativos escaláveis, com autenticação, controle de acesso, painéis administrativos e APIs. |
-| 🖥️ **Aplicações Desktop** | Softwares nativos, leves e rápidos para operações críticas do dia a dia. |
-| 🤖 **Automação e Inteligência** | Fluxos inteligentes que reduzem trabalho manual e aceleram decisões. |
-| 🔐 **Segurança e Compliance** | Arquitetura pensada desde o início para proteção de dados e aderência regulatória. |
-| 🔌 **Integrações** | Conexão entre sistemas legados, serviços em nuvem e plataformas de terceiros. |
-| 🛠️ **Produtos e Serviços** | Sistemas prontos para licenciamento e plataformas online sob demanda. |
+| Focus Area | Description |
+| --- | --- |
+| 🌐 **Web Platforms** | Scalable corporate systems with authentication, access control, admin panels, and APIs. |
+| 🖥️ **Desktop Applications** | Lightweight, fast, and native software for critical day-to-day operations. |
+| 🤖 **Automation & Intelligence** | Smart workflows that reduce manual labor and accelerate decision-making. |
+| 🔐 **Security & Compliance** | Architecture designed from the ground up for data protection and regulatory compliance. |
+| 🔌 **Integrations** | Connecting legacy systems, cloud services, and third-party platforms. |
+| 🛠️ **Products & Services** | Ready-to-license systems and on-demand online platforms. |
 
 ---
 
-## ⚙️ Princípios de engenharia
+## ⚙️ Engineering principles
 
-- 🛡️ **Segurança por padrão:** memória segura, dependências auditadas e dados protegidos em cada camada.
-- ⚡ **Eficiência real:** menos consumo de recursos, mais velocidade e custo de infraestrutura reduzido.
-- 🧩 **Código sustentável:** arquitetura modular, testes e documentação que facilitam a evolução do produto.
-- 🤝 **Parceria de longo prazo:** o cliente participa do ciclo de desenvolvimento, do desenho à operação.
+* 🛡️ **Security by default:** memory safety, audited dependencies, and protected data at every layer.
+* ⚡ **True efficiency:** lower resource consumption, higher speed, and reduced infrastructure costs.
+* 🧩 **Sustainable code:** modular architecture, testing, and documentation that facilitate product evolution.
+* 🤝 **Long-term partnership:** clients are involved in the development cycle, from design to operation.
 
 ---
 
 ## 🧰 Stack
 
-<div align="center">
+---
 
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-F74C00?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=DEA584)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=DEA584)
+## 🏭 Industries we serve
 
-</div>
+`Financial` · `Cooperatives` · `Manufacturing` · `Logistics` · `Aerospace` · `Maritime` · `Services`
 
 ---
 
-## 🏭 Setores atendidos
+## 📬 Let's talk?
 
-`Financeiro` · `Cooperativas` · `Indústria` · `Logística` · `Aeronáutico` · `Naval` · `Serviços`
+Do you have an efficiency or security challenge in your operation? Get in touch with us.
 
----
-
-## 📬 Vamos conversar?
-
-Tem um desafio de eficiência ou segurança na sua operação? Fale com a gente.
-
-- ✉️ **E-mail:** [softtrust@softtrust.io](mailto:softtrust@softtrust.io)
-- 🌐 **Site:** [softrust.io](https://softrust.io)
-- 🕗 **Atendimento:** segunda a sexta, das 8h às 18h
-- 📍 **Endereço:** Av. Cassiano Ricardo, 60, Sala 161, The One Office Tower, São José dos Campos – SP
+* ✉️ **Email:** [softtrust@softtrust.io](https://www.google.com/search?q=mailto%3Asofttrust%40softtrust.io)
+* 🌐 **Website:** [softrust.io](https://softrust.io)
+* 🕗 **Business Hours:** Monday to Friday, 8 AM to 6 PM (BRT)
+* 📍 **Address:** Av. Cassiano Ricardo, 60, Room 161, The One Office Tower, São José dos Campos – SP, Brazil
 
 ---
 
-<div align="center">
-
-**🦀 SoftTrust Technology** · *Tecnologia em que você pode confiar.*
-
-![Rust](https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F%20and%20Rust-CE422B?style=flat-square)
-
-</div>
+**🦀 SoftTrust Technology** · *Technology you can trust.*
