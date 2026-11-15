@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 100" width="350" height="100">
+  <!-- Utilizamos uma fonte genérica sem serifa, em negrito, semelhante à da imagem -->
+  <text x="10" y="65" font-family="Montserrat, &#39;Segoe UI&#39;, system-ui, sans-serif" font-size="64" font-weight="800" letter-spacing="-1">
+    <!-- Primeira parte branca -->
+    <tspan fill="#FFFFFF">Soft</tspan>
+    <!-- Segunda parte laranja/ferrugem com o "T" maiúsculo -->
+    <tspan fill="#C24F1E">Trust</tspan>
+  </text>
+</svg>
