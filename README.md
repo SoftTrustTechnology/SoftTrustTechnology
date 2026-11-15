@@ -6,7 +6,7 @@
 
 [🌐 Website](https://softrust.io) · [✉️ softtrust@softtrust.io](https://www.google.com/search?q=mailto%3Asofttrust%40softtrust.io)
 
-<p>[📍 São José dos Campos – SP, Brazil] [📍 Assunción – ASU, Brazil]</p>
+<p>[📍 São José dos Campos – SP, Brazil] [📍 Assunción – ASU, Paraguay]</p>
 
 </div>
 
