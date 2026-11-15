@@ -4,7 +4,9 @@
 
 ### Intelligent software for companies that don't compromise on **efficiency** and **security**.
 
-[🌐 Website](https://softrust.io) · [✉️ softtrust@softtrust.io](https://www.google.com/search?q=mailto%3Asofttrust%40softtrust.io) · [📍 São José dos Campos – SP, Brazil](https://softrust.io)
+[🌐 Website](https://softrust.io) · [✉️ softtrust@softtrust.io](https://www.google.com/search?q=mailto%3Asofttrust%40softtrust.io)
+
+<p>[📍 São José dos Campos – SP, Brazil] [📍 Assunción – ASU, Brazil]</p>
 
 </div>
 
